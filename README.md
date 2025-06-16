@@ -78,3 +78,10 @@ or
 ```
 python3 -m streamlit run app.py
 ```
+
+## 📸 Web Browser Output
+![Movie Recommender Screenshot](screenshot.png)
+
+## 📬 Contact
+Author: `Shanmukha Mundra`   
+GitHub: **@ShanmukhaMundra**
