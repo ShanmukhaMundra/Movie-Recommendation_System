@@ -3,8 +3,7 @@
 Welcome to the **Movie Recommender System**! This web app suggests movies similar to the one you select, using `content-based` filtering powered by cosine similarity. It’s built with **Python**, **Streamlit**, and preprocessed data stored in pickle files.
 
 ## 📸 Web Browser Preview
-
-![Movie Recommender Screenshot](screenshot1.png)
+![Movie Recommender Screenshot](https://github.com/ShanmukhaMundra/Movie-Recommendation_System/blob/main/Screenshot1.png?raw=true)
 ---
 
 ## 📌 Features
@@ -80,7 +79,7 @@ python3 -m streamlit run app.py
 ```
 
 ## 📸 Web Browser Output
-![Movie Recommender Screenshot](screenshot.png)
+![Movie Recommender Screenshot](https://github.com/ShanmukhaMundra/Movie-Recommendation_System/blob/main/Screenshot.png?raw=true)
 
 ## 📬 Contact
 Author: `Shanmukha Mundra`   
